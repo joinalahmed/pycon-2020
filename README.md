@@ -1,4 +1,4 @@
-# Transfer Learning with TensorFlow2.0 - tutorial TFUG Mysore
+# Transfer Learning with TensorFlow2.0 - tutorial TFUG Mysore and PyCon India 2020
 
 
 # Tutorials Summary
