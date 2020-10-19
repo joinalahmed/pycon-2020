@@ -1,4 +1,4 @@
-# Transfer Learning with TensorFlow2.0 - tutorial
+# Transfer Learning with TensorFlow2.0 - tutorial TFUG Mysore
 
 
 # Tutorials Summary
